@@ -10,6 +10,9 @@ Follow these steps to run the Taskgkb application locally:
 # Compile and Run the Application:
 
 Locate the TaskgkbApplication.java file in src/main/java/com/example/taskgkb/.
-Compile the Java file:
+Compile the Java Project:
+
+ ```bash
+   mvn clean install
 
 
