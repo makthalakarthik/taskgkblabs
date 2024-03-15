@@ -7,12 +7,17 @@ Follow these steps to run the Taskgkb application locally:
    git clone https://github.com/makthalakarthik/taskgkblabs.git
    cd taskgkblabs
 
-# Compile and Run the Application:
+# Compile and Build the Application:
 
 Locate the TaskgkbApplication.java file in src/main/java/com/example/taskgkb/.
 Compile the Java Project:
 
  ```bash
    mvn clean install
+# Run the Application :
+Locate the TaskgkbApplication.java file in src/main/java/com/example/taskgkb/. then Click on Run As Java Application , the web applcation will run on 8080 port ,
 
+# If port alredy used  :
+find application.properties file & write server.port:custom port
+example : server.port:9092
 
