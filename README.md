@@ -5,3 +5,12 @@ git clone https://github.com/makthalakarthik/taskgkblabs.git
 # Navigate to the Cloned Repository:
 
 
+## Running the Taskgkb Application
+
+Follow these steps to run the Taskgkb application locally:
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/makthalakarthik/taskgkblabs.git
+
+
