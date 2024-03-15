@@ -1,6 +1,0 @@
-com\taskgkb\taskgkb\dto\Userset.class
-com\taskgkb\taskgkb\dto\UserDto.class
-com\taskgkb\taskgkb\controller\UserController.class
-com\taskgkb\taskgkb\repository\userrepository.class
-com\taskgkb\taskgkb\service\UserService.class
-com\taskgkb\taskgkb\TaskgkbApplication.class
