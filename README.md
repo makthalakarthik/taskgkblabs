@@ -7,7 +7,7 @@ Follow these steps to run the Taskgkb application locally:
    git clone https://github.com/makthalakarthik/taskgkblabs.git
    cd taskgkblabs
 
-# Compile and Build the Application:
+2 . ** Compile and Build the Application**:
 
 Locate the TaskgkbApplication.java file in src/main/java/com/example/taskgkb/.
 Compile the Java Project:
